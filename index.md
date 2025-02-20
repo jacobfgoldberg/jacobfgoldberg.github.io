@@ -1,6 +1,6 @@
 # <center>Welcome to Jacob Goldberg's CS499 ePortfolio</center>
 ### <center>Computer Science Capstone Project</center>
-<center>Here you can find the artifact I chose to use as the base for my project and the enhancements I've made to it using the skills I've acquired throughout my time in the SNHU Computer Science program.</center>
+Here you can find the artifact I chose to use as the base for my project and the enhancements I've made to it using the skills I've acquired throughout my time in the SNHU Computer Science program.
 
 ### Professional Self-Assessment
 
