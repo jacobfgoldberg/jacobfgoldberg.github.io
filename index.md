@@ -1,22 +1,21 @@
-# Hello World
-  
-## <center>Welcome to Jacob Goldberg's CS499 ePortfolio. </center>
-Here you can find the artifact I chose to use as the base for my project and the enhancements I've made to it using the skills I've acquired throughout my time in the SNHU Computer Science program.
+# <center>Welcome to Jacob Goldberg's CS499 ePortfolio</center>
+### <center>Computer Science Capstone Project</center>
+<center>Here you can find the artifact I chose to use as the base for my project and the enhancements I've made to it using the skills I've acquired throughout my time in the SNHU Computer Science program.</center>
 
 ### Professional Self-Assessment
 
 Insert Here
 
-### Original Artifact and Code Review
-
-The following is an informal code review of my original artifact, detailing its prexisting features and functionality as well as pointing out areas that will be targeted for enhancement. 
-
-<code>A video of the code review can be found <a href="https://youtu.be/aZIdsyjYgkk">here</a>.</code>
-
 ### Original Artifact
 The original artifact used as the base for my enhancements is a Java Rescue Animal Program that enables users to enter dogs and monkeys into an Animal Rescue system. My past construction of this artifact demonstrates my experience with software design and engineering, data structures, and algorithms that manage those data structures. It consists of four Java files, those being the RescueAnimal class, the Driver main class, the Dog class, and the Monkey class, with those last two deriving from the Rescue Animal class.
 
 <code>This original artifact's files can be found <a href="https://github.com/jacobfgoldberg/jacobfgoldberg.github.io/tree/original_code">here</a>.</code>
+
+### Code Review
+
+The following is an informal code review of my original artifact, detailing its prexisting features and functionality as well as pointing out areas that will be targeted for enhancement. 
+
+<code>A video of the code review can be found <a href="https://youtu.be/aZIdsyjYgkk">here</a>.</code>
 
 ### Enhancement 1 - Software Design and Engineering
 The artifact I chose for the category Software Design and Engineering is a Java program that allows users to input animals into a rescue animal system, data about the animals, view a list of animals that have been taken in, and to reserve animals. The program is only partially complete and in its current state only accepts dogs and monkeys. I created this program for my IT 145 class in order to learn about Java development and best coding practices in Java. Since then, I have learned more about the Java coding language as well as other programming languages including C++. I have included this artifact in my ePortfolio as it demonstrates my proficiency in developing functioning code and meeting software requirements to solve a problem with Java. 
@@ -32,7 +31,7 @@ With this code translation, I have met the following course outcomes as planned:
 
 Challenges I faced while enhancing this project included finding ways to translate Java-exclusive functionality like case-insensitive string comparison to C++ and redesigning Java functions into C++ headers and class files. After having enhanced and modified the artifact, I learned that the user input reception methods of the original Java program were insecure and in need of addressing. By recreating the project in C++ and redesigning it in order to do so, I was able to address the security design flaw present in the original and create a more efficient and capable version of the Rescue Animal program.
 
-<code>This enhancement's code can be found <a href="https://github.com/jacobfgoldberg/jacobfgoldberg.github.io/tree/original_code">here</a>.</code>
+<code>This enhancement's code can be found <a href="https://github.com/jacobfgoldberg/jacobfgoldberg.github.io/tree/software_design_and_engineering">here</a>.</code>
 
 ### Enhancement 2 - Algorithms and Data Structures
 For the category Algorithms and Data Structure, I once again utilized the same artifact, which is the Java Rescue Animal program that allows users to submit Dogs and Monkeys to be taken in and added to a Rescue Animal system, where they can then be reserved and a list of the animals in the system can be printed. I chose this artifact to use for this category because the program is centered around the management of data structures through the use of algorithms in the code. 
@@ -45,7 +44,7 @@ As it stands, by creating the additional data types, restructuring the process o
 
 >Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
-<code>This enhancement's code can be found <a href="https://github.com/jacobfgoldberg/jacobfgoldberg.github.io/tree/original_code">here</a>.</code>
+<code>This enhancement's code can be found <a href="https://github.com/jacobfgoldberg/jacobfgoldberg.github.io/tree/algorithms_and_data_structures">here</a>.</code>
 
 ### Enhancement 3 - Databases
 For the Databases category, I used the same artifact I used for the previous two categories. This artifact is the Java Rescue Animal Program that lets users submit dogs and monkeys into an intake system. These animals were originally stored in Array-List objects which could be printed for the user to see a list of all animals in the system. I chose this artifact for my database enhancement because the original Java program was ripe with opportunity to expand its functionality through the use of a database.  
@@ -60,4 +59,4 @@ This enhancement of the original Rescue Animal program and the expansion of its 
 
 >Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.   
 
-<code>This enhancement's code can be found <a href="https://github.com/jacobfgoldberg/jacobfgoldberg.github.io/tree/original_code">here</a>.</code>
+<code>This enhancement's code can be found <a href="https://github.com/jacobfgoldberg/jacobfgoldberg.github.io/tree/databases">here</a>.</code>
